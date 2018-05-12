@@ -1,0 +1,28 @@
+_repo: Weather-and-Folk-Lore-of-Peterborough-and-District_17269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dack, Charles
+    birthdate: 1847
+    deathdate: 1923
+    gutenberg_agent_id: '7261'
+    url: http://www.gutenberg.org/2009/agents/7261
+description: ''
+gutenberg_issued: '2005-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17269'
+  lccn: '14016377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England -- Peterborough'
+- !lcc 'GR'
+- !lcsh 'Weather -- Folklore'
+title: Weather and Folk Lore of Peterborough and District
+url: http://www.gutenberg.org/ebooks/17269
